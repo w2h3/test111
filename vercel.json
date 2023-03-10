@@ -1,0 +1,1 @@
+{"buildCommand":"export VERCEL_ENV=production && echo aW1wb3J0IExpbmsgZnJvbSAibmV4dC9saW5rIgoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSW5kZXhQYWdlKCkgewogIHJldHVybiAoCiAgICBwcm9jZXNzLmVudi50ZXN0CiAgKQp9 | base64 --decode > pages/index.tsx && next build"}
